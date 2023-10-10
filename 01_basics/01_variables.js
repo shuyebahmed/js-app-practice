@@ -33,3 +33,9 @@ accountCity = "Barmingham"
 
 
 console.table([accountEmail, accountPassword, accountCity, accountState])
+
+let userName = "mdshuyeb"
+let passWord = "Shuyeb2525Ahemd#"
+let userID = "45112072"
+
+console.table([userName, passWord, userID])
