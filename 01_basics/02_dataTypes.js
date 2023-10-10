@@ -1,7 +1,7 @@
 /* 
 # Datatypes and ECMA standards #
 
-For Doccumentation - 1.mdn  2.tc39 (ecma)
+> For Doccumentation - 1.mdn  2.tc39 (ecma)
 */ 
 
 "use strict"; // treat all JS code as newer version 
